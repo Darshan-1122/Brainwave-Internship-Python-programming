@@ -1,0 +1,95 @@
+Welcome to Cardless Transaction
+Enter your Phone Number linked to Bank: 9902750970
+Welcome Shree Darshan M
+
+OTP sent to your phone: 647886
+
+Enter OTP: 647888
+Incorrect OTP. Try again.
+Last Transaction Cancelled
+================================================================================
+Welcome to Cardless Transaction
+Enter your Phone Number linked to Bank: 9902750970
+Welcome Shree Darshan M
+
+OTP sent to your phone: 169078
+
+Enter OTP: 169078
+
+Select Transaction
+1. Cash Withdrawal
+2. Balance Enquiry
+3. Cash Deposit
+4. Exit
+
+Enter your choice: 2
+
+Select Account type
+1. Savings
+2. Current
+3. Business
+
+Enter your Account Type: 2
+Enter PIN: 9005
+Your current balance is: ₹ 42000
+
+Transaction Successful
+
+-------------------- RECEIPT --------------------------
+XYZ Bank            Fri May 30 15:22:46 2025
+------------------------------------------------------------
+Customer Name:     Shree Darshan M
+Account Number:    60904400056
+Customer Card :      xxxx xxxx xxxx 3539
+Transaction:            Balance Enquiry
+Available Balance:   ₹ 42000
+ATM Charges:         ₹0.0
+--------------------------------------------------------
+Thank you for using our ATM
+
+================================================================================
+Welcome to Cardless Transaction
+Enter your Phone Number linked to Bank: 7090076326
+Welcome V Sai Kishore
+
+OTP sent to your phone: 147110
+
+Enter OTP: 147110
+
+Select Transaction
+1. Cash Withdrawal
+2. Balance Enquiry
+3. Cash Deposit
+4. Exit
+
+Enter your choice: 1
+
+Select Account type
+1. Savings
+2. Current
+3. Business
+
+Enter your Account Type: 3
+Enter PIN: 5483
+Invalid PIN
+Last Transaction Cancelled
+================================================================================
+Welcome to Cardless Transaction
+Enter your Phone Number linked to Bank: 8183838838
+Welcome Srinivas Rao B
+
+OTP sent to your phone: 955341
+
+Enter OTP: 955341
+
+Select Transaction
+1. Cash Withdrawal
+2. Balance Enquiry
+3. Cash Deposit
+4. Exit
+
+Enter your choice: 4
+Thank you for using our ATM. Goodbye!
+================================================================================
+Welcome to Cardless Transaction
+Enter your Phone Number linked to Bank: 
